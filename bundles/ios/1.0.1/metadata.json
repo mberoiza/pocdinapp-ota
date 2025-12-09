@@ -1,0 +1,11 @@
+﻿{
+    "rolloutPercentage":  100,
+    "mandatory":  false,
+    "description":  "Nueva actualizacion",
+    "platform":  "ios",
+    "version":  "1.0.1",
+    "generatedAt":  "2025-12-09T17:37:57.9144563-03:00",
+    "bundleName":  "main.jsbundle",
+    "size":  2365729,
+    "hash":  "ABA48143F1848B35BDA1CD266A60980CA656A22EB02683762B9390DB490154C4"
+}
