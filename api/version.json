@@ -1,0 +1,20 @@
+{
+  "android": {
+    "version": "1.0.0",
+    "bundleUrl": "https://mberoiza.github.io/pocdinapp-ota/bundles/android/index.android.bundle",
+    "assetsUrl": "https://mberoiza.github.io/pocdinapp-ota/bundles/android/assets.zip",
+    "hash": "",
+    "mandatory": false,
+    "description": "Initial version",
+    "rolloutPercentage": 100
+  },
+  "ios": {
+    "version": "1.0.0",
+    "bundleUrl": "https://mberoiza.github.io/pocdinapp-ota/bundles/ios/main.jsbundle",
+    "assetsUrl": "https://mberoiza.github.io/pocdinapp-ota/bundles/ios/assets.zip",
+    "hash": "",
+    "mandatory": false,
+    "description": "Initial version",
+    "rolloutPercentage": 100
+  }
+}
