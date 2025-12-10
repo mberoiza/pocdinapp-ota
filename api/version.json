@@ -1,26 +1,26 @@
 {
   "android": {
-    "version": "1.0.6",
-    "bundleUrl": "https://mberoiza.github.io/pocdinapp-ota/bundles/android/1.0.6/index.android.bundle",
-    "assetsUrl": "https://mberoiza.github.io/pocdinapp-ota/bundles/android/1.0.6/assets",
-    "hash": "0a9a7f0beadb5e02bfb2d631eda8bc75b0fbd39da5b7dda14e288abc1d3efe5a",
-    "size": 2389396,
+    "version": "1.0.7",
+    "bundleUrl": "https://mberoiza.github.io/pocdinapp-ota/bundles/android/1.0.7/index.android.bundle",
+    "assetsUrl": "https://mberoiza.github.io/pocdinapp-ota/bundles/android/1.0.7/assets",
+    "hash": "b98e7f4fdf5a5db8ce98d0877b4e0f15c361f02e46e153b5f0dcf504c4d002c8",
+    "size": 2386346,
     "mandatory": false,
-    "description": "Corrección popup",
+    "description": "Corrección texto ota y popup",
     "rolloutPercentage": 100,
     "forceDowngrade": false,
-    "updatedAt": "2025-12-10T19:29:05.564Z"
+    "updatedAt": "2025-12-10T19:40:08.761Z"
   },
   "ios": {
-    "version": "1.0.6",
-    "bundleUrl": "https://mberoiza.github.io/pocdinapp-ota/bundles/ios/1.0.6/main.jsbundle",
-    "assetsUrl": "https://mberoiza.github.io/pocdinapp-ota/bundles/ios/1.0.6/assets",
-    "hash": "75c901c59c20719f8283e0e6e97b4e1a60c604800068f065b5bbdee831ed2740",
-    "size": 2377519,
+    "version": "1.0.7",
+    "bundleUrl": "https://mberoiza.github.io/pocdinapp-ota/bundles/ios/1.0.7/main.jsbundle",
+    "assetsUrl": "https://mberoiza.github.io/pocdinapp-ota/bundles/ios/1.0.7/assets",
+    "hash": "7abb0d64d92b88f72ef75d480a8c09d57b24f839cfc1d79be7e5494b18f31f15",
+    "size": 2374469,
     "mandatory": false,
-    "description": "Corrección popup",
+    "description": "Corrección texto ota y popup",
     "rolloutPercentage": 100,
     "forceDowngrade": false,
-    "updatedAt": "2025-12-10T19:29:05.564Z"
+    "updatedAt": "2025-12-10T19:40:08.761Z"
   }
 }
