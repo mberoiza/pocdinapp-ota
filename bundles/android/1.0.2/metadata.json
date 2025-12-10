@@ -1,0 +1,11 @@
+﻿{
+    "rolloutPercentage":  100,
+    "mandatory":  false,
+    "description":  "Prueba de actualizacion",
+    "platform":  "android",
+    "version":  "1.0.2",
+    "generatedAt":  "2025-12-10T12:27:03.7372960-03:00",
+    "bundleName":  "index.android.bundle",
+    "size":  2386125,
+    "hash":  "19E44B51E3C84D74F4148C983DB0A6BA227CC071A94B0FBC11149F295F48371F"
+}
