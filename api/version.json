@@ -1,26 +1,26 @@
 {
-    "android":  {
-                    "rolloutPercentage":  100,
-                    "mandatory":  false,
-                    "description":  "Fix popup - mostrar contenido visible en ventana blanca",
-                    "size":  2389380,
-                    "version":  "1.0.5",
-                    "forceDowngrade":  false,
-                    "bundleUrl":  "https://mberoiza.github.io/pocdinapp-ota/bundles/android/1.0.5/index.android.bundle",
-                    "updatedAt":  "2025-12-10T12:42:41.4691542-03:00",
-                    "assetsUrl":  "https://mberoiza.github.io/pocdinapp-ota/bundles/android/1.0.5/assets",
-                    "hash":  "CF99A849CE5E4095D3B671545896C83ABDCF3111CF0E225918ED1C21C95206EE"
-                },
-    "ios":  {
-                "rolloutPercentage":  100,
-                "mandatory":  false,
-                "description":  "Fix popup - mostrar contenido visible en ventana blanca",
-                "size":  2377503,
-                "version":  "1.0.5",
-                "forceDowngrade":  false,
-                "bundleUrl":  "https://mberoiza.github.io/pocdinapp-ota/bundles/ios/1.0.5/main.jsbundle",
-                "updatedAt":  "2025-12-10T12:42:41.4711559-03:00",
-                "assetsUrl":  "https://mberoiza.github.io/pocdinapp-ota/bundles/ios/1.0.5/assets",
-                "hash":  "BF4A2CD981B8D66E8683DABC34BB46F1E826551BFAAD4F57ECDC04322C2E2F30"
-            }
+  "android": {
+    "version": "1.0.6",
+    "bundleUrl": "https://mberoiza.github.io/pocdinapp-ota/bundles/android/1.0.6/index.android.bundle",
+    "assetsUrl": "https://mberoiza.github.io/pocdinapp-ota/bundles/android/1.0.6/assets",
+    "hash": "0a9a7f0beadb5e02bfb2d631eda8bc75b0fbd39da5b7dda14e288abc1d3efe5a",
+    "size": 2389396,
+    "mandatory": false,
+    "description": "Corrección popup",
+    "rolloutPercentage": 100,
+    "forceDowngrade": false,
+    "updatedAt": "2025-12-10T19:29:05.564Z"
+  },
+  "ios": {
+    "version": "1.0.6",
+    "bundleUrl": "https://mberoiza.github.io/pocdinapp-ota/bundles/ios/1.0.6/main.jsbundle",
+    "assetsUrl": "https://mberoiza.github.io/pocdinapp-ota/bundles/ios/1.0.6/assets",
+    "hash": "75c901c59c20719f8283e0e6e97b4e1a60c604800068f065b5bbdee831ed2740",
+    "size": 2377519,
+    "mandatory": false,
+    "description": "Corrección popup",
+    "rolloutPercentage": 100,
+    "forceDowngrade": false,
+    "updatedAt": "2025-12-10T19:29:05.564Z"
+  }
 }
