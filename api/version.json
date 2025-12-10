@@ -1,4 +1,4 @@
-﻿{
+{
     "android":  {
                     "rolloutPercentage":  100,
                     "mandatory":  false,
