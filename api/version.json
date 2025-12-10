@@ -2,25 +2,25 @@
     "android":  {
                     "rolloutPercentage":  100,
                     "mandatory":  false,
-                    "description":  "Correccion de version",
-                    "size":  2385909,
-                    "version":  "1.0.1",
-                    "forceDowngrade":  false,
-                    "bundleUrl":  "https://mberoiza.github.io/pocdinapp-ota/bundles/android/1.0.1/index.android.bundle",
-                    "updatedAt":  "2025-12-10T12:21:20.6595681-03:00",
-                    "assetsUrl":  "https://mberoiza.github.io/pocdinapp-ota/bundles/android/1.0.1/assets",
-                    "hash":  "EC14256D091E3F061DF16F03C198ED2067E7707745AFA4335EEDC3DA4BD7E128"
+                    "description":  "Rollback de prueba",
+                    "size":  2385973,
+                    "version":  "1.0.0",
+                    "forceDowngrade":  true,
+                    "bundleUrl":  "https://mberoiza.github.io/pocdinapp-ota/bundles/android/1.0.0/index.android.bundle",
+                    "updatedAt":  "2025-12-10T12:25:12.5717149-03:00",
+                    "assetsUrl":  "https://mberoiza.github.io/pocdinapp-ota/bundles/android/1.0.0/assets",
+                    "hash":  "DD7C9C8197EA0B0E18EFA5E4A30D6CFEF0FB3095EC632EE4801484665694A870"
                 },
     "ios":  {
                 "rolloutPercentage":  100,
                 "mandatory":  false,
-                "description":  "Correccion de version",
-                "size":  2374032,
-                "version":  "1.0.1",
-                "forceDowngrade":  false,
-                "bundleUrl":  "https://mberoiza.github.io/pocdinapp-ota/bundles/ios/1.0.1/main.jsbundle",
-                "updatedAt":  "2025-12-10T12:21:20.6625743-03:00",
-                "assetsUrl":  "https://mberoiza.github.io/pocdinapp-ota/bundles/ios/1.0.1/assets",
-                "hash":  "97A3819B8102E8AA62269AADD3BBE0596E5B49FA8F358873089566E69ABD1321"
+                "description":  "Rollback de prueba",
+                "size":  2374096,
+                "version":  "1.0.0",
+                "forceDowngrade":  true,
+                "bundleUrl":  "https://mberoiza.github.io/pocdinapp-ota/bundles/ios/1.0.0/main.jsbundle",
+                "updatedAt":  "2025-12-10T12:25:12.5717149-03:00",
+                "assetsUrl":  "https://mberoiza.github.io/pocdinapp-ota/bundles/ios/1.0.0/assets",
+                "hash":  "8BE2E2794ED21950C6F63CAA7E7AE38CC640FC5A2E347E1FE99E9F7CE1C82015"
             }
 }

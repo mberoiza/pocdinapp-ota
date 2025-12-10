@@ -1,11 +1,11 @@
 ﻿{
     "rolloutPercentage":  100,
     "mandatory":  false,
-    "description":  "Revertir a estable",
+    "description":  "Rollback de prueba",
     "platform":  "android",
     "version":  "1.0.0",
-    "generatedAt":  "2025-12-10T11:35:43.1729757-03:00",
+    "generatedAt":  "2025-12-10T12:25:02.7836266-03:00",
     "bundleName":  "index.android.bundle",
-    "size":  2380000,
-    "hash":  "5C793EB5516865A4232BC1DECF93080C24FC6BFC650EB1E533140BDE97699C42"
+    "size":  2385973,
+    "hash":  "DD7C9C8197EA0B0E18EFA5E4A30D6CFEF0FB3095EC632EE4801484665694A870"
 }

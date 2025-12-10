@@ -1,11 +1,11 @@
 ﻿{
     "rolloutPercentage":  100,
     "mandatory":  false,
-    "description":  "Revertir a estable",
+    "description":  "Rollback de prueba",
     "platform":  "ios",
     "version":  "1.0.0",
-    "generatedAt":  "2025-12-10T11:36:04.6495248-03:00",
+    "generatedAt":  "2025-12-10T12:25:12.5165942-03:00",
     "bundleName":  "main.jsbundle",
-    "size":  2368559,
-    "hash":  "AAADB7F96370B078619213CB541B293CC57BC2293647A6B2909633ABC97DFB23"
+    "size":  2374096,
+    "hash":  "8BE2E2794ED21950C6F63CAA7E7AE38CC640FC5A2E347E1FE99E9F7CE1C82015"
 }
