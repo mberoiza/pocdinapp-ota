@@ -1,0 +1,11 @@
+﻿{
+    "rolloutPercentage":  100,
+    "mandatory":  false,
+    "description":  "Fix popup - remover overlay opaco cuando usa transparentModal",
+    "platform":  "ios",
+    "version":  "1.0.4",
+    "generatedAt":  "2025-12-10T12:37:13.6395046-03:00",
+    "bundleName":  "main.jsbundle",
+    "size":  2375683,
+    "hash":  "E9A51F86E1D2C95460CED6D3787B5BE1B5344BF5430F93504DAE975A5DE9D2C8"
+}
