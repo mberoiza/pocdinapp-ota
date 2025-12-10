@@ -1,11 +1,11 @@
 ﻿{
     "rolloutPercentage":  100,
     "mandatory":  false,
-    "description":  "Nueva actualizacion",
+    "description":  "Correccion de version",
     "platform":  "ios",
     "version":  "1.0.1",
-    "generatedAt":  "2025-12-10T12:17:18.9750500-03:00",
+    "generatedAt":  "2025-12-10T12:21:20.4774798-03:00",
     "bundleName":  "main.jsbundle",
     "size":  2374032,
-    "hash":  "CAAAD7B181417611F35B4517377D0A83CC9907B6FEE9026C44A52F37AC5D306F"
+    "hash":  "97A3819B8102E8AA62269AADD3BBE0596E5B49FA8F358873089566E69ABD1321"
 }
