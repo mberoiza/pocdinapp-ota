@@ -1,26 +1,26 @@
 {
   "android": {
-    "version": "1.0.8",
-    "bundleUrl": "https://mberoiza.github.io/pocdinapp-ota/bundles/android/1.0.8/index.android.bundle",
-    "assetsUrl": "https://mberoiza.github.io/pocdinapp-ota/bundles/android/1.0.8/assets",
-    "hash": "EEBFA184D053C26A76F7B7BD0ADEA70221D6EA404CB7B4E445CFA1A8D60F0F66",
-    "size": 2387480,
+    "version": "1.0.0",
+    "bundleUrl": "https://mberoiza.github.io/pocdinapp-ota/bundles/android/1.0.0/index.android.bundle",
+    "assetsUrl": "https://mberoiza.github.io/pocdinapp-ota/bundles/android/1.0.0/assets",
+    "hash": "DD7C9C8197EA0B0E18EFA5E4A30D6CFEF0FB3095EC632EE4801484665694A870",
+    "size": 2385973,
     "mandatory": false,
-    "description": "Vuelta a última version",
+    "description": "Rollback a estable",
     "rolloutPercentage": 100,
-    "forceDowngrade": false,
-    "updatedAt": "2025-12-11T16:37:46.583Z"
+    "forceDowngrade": true,
+    "updatedAt": "2025-12-11T16:40:17.524Z"
   },
   "ios": {
-    "version": "1.0.8",
-    "bundleUrl": "https://mberoiza.github.io/pocdinapp-ota/bundles/ios/1.0.8/main.jsbundle",
-    "assetsUrl": "https://mberoiza.github.io/pocdinapp-ota/bundles/ios/1.0.8/assets",
-    "hash": "EBF7B3969A1811E85C355607080250F5FB237AABC73DEFF65D12BB876AFDD42A",
-    "size": 2375599,
+    "version": "1.0.0",
+    "bundleUrl": "https://mberoiza.github.io/pocdinapp-ota/bundles/ios/1.0.0/main.jsbundle",
+    "assetsUrl": "https://mberoiza.github.io/pocdinapp-ota/bundles/ios/1.0.0/assets",
+    "hash": "8BE2E2794ED21950C6F63CAA7E7AE38CC640FC5A2E347E1FE99E9F7CE1C82015",
+    "size": 2374096,
     "mandatory": false,
-    "description": "Vuelta a última version",
+    "description": "Rollback a estable",
     "rolloutPercentage": 100,
-    "forceDowngrade": false,
-    "updatedAt": "2025-12-11T16:37:46.583Z"
+    "forceDowngrade": true,
+    "updatedAt": "2025-12-11T16:40:17.524Z"
   }
 }
