@@ -1,26 +1,26 @@
 {
-    "android":  {
-                    "rolloutPercentage":  100,
-                    "mandatory":  false,
-                    "description":  "Fixes: Selection persistence, animation timing, carousel selection, performance optimizations",
-                    "size":  2695873,
-                    "version":  "1.0.9",
-                    "forceDowngrade":  false,
-                    "bundleUrl":  "https://mberoiza.github.io/pocdinapp-ota/bundles/android/1.0.9/index.android.bundle",
-                    "updatedAt":  "2025-12-27T13:31:30.3808717-03:00",
-                    "assetsUrl":  "https://mberoiza.github.io/pocdinapp-ota/bundles/android/1.0.9/assets",
-                    "hash":  "37C05EFA9C84A8DFBE70E5D1F9E9C3E014D7F168437049F91879F196AE2F765D"
-                },
-    "ios":  {
-                "rolloutPercentage":  100,
-                "mandatory":  false,
-                "description":  "Fixes: Selection persistence, animation timing, carousel selection, performance optimizations",
-                "size":  2683994,
-                "version":  "1.0.9",
-                "forceDowngrade":  false,
-                "bundleUrl":  "https://mberoiza.github.io/pocdinapp-ota/bundles/ios/1.0.9/main.jsbundle",
-                "updatedAt":  "2025-12-27T13:31:30.3808717-03:00",
-                "assetsUrl":  "https://mberoiza.github.io/pocdinapp-ota/bundles/ios/1.0.9/assets",
-                "hash":  "AE8AC8B5782ADADEB013E340847AD42BF4273AA2E9AA1C2D035C125AF39C00AA"
-            }
+  "android": {
+    "version": "1.0.8",
+    "bundleUrl": "https://mberoiza.github.io/pocdinapp-ota/bundles/android/1.0.8/index.android.bundle",
+    "assetsUrl": "https://mberoiza.github.io/pocdinapp-ota/bundles/android/1.0.8/assets",
+    "hash": "EEBFA184D053C26A76F7B7BD0ADEA70221D6EA404CB7B4E445CFA1A8D60F0F66",
+    "size": 2387480,
+    "mandatory": false,
+    "description": "Rollback a fix popup y utf",
+    "rolloutPercentage": 100,
+    "forceDowngrade": true,
+    "updatedAt": "2026-01-12T12:53:59.999Z"
+  },
+  "ios": {
+    "version": "1.0.8",
+    "bundleUrl": "https://mberoiza.github.io/pocdinapp-ota/bundles/ios/1.0.8/main.jsbundle",
+    "assetsUrl": "https://mberoiza.github.io/pocdinapp-ota/bundles/ios/1.0.8/assets",
+    "hash": "EBF7B3969A1811E85C355607080250F5FB237AABC73DEFF65D12BB876AFDD42A",
+    "size": 2375599,
+    "mandatory": false,
+    "description": "Rollback a fix popup y utf",
+    "rolloutPercentage": 100,
+    "forceDowngrade": true,
+    "updatedAt": "2026-01-12T12:53:59.999Z"
+  }
 }
